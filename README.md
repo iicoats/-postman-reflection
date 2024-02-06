@@ -10,6 +10,7 @@ Version-group details at level 0 is an egg which would be what it is before it i
 
 second pokemon: Charmandar
 ![image](https://github.com/iicoats/-postman-reflection/assets/145803389/7b76d340-d961-4181-92b7-41f2d0576b47)
+Charmandar learns "scratch" at level 1.
 
 
 
